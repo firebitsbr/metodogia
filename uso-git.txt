@@ -1,0 +1,13 @@
+  [1/3]                              uso                                        
+para iniciar un trabajo se escribe le comando :
+
+#> git init
+
+para agregar una archivo o carpeta escribiremos:
+
+#> git add (nombre del archivo o carpeta)
+
+nota: para agregar todos los arhivos que han surgido cambio se escribe :
+
+#> git add . (el punto nos permite cargar todo)
+
